@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628.8" height="473.9" viewBox="0 0 589.5 444.3">
+  <path d="M52 419l266-47 224 52 27-380-265-24-26 1L20 65z" fill="#3b4378" fill-rule="evenodd" stroke="#282d51" stroke-width="4.6"/>
+  <path d="M69 405l11 2 237-46 201 50 7-1 25-354-249-28-21 1L39 75z" fill="#fefcee" fill-rule="evenodd" stroke="#282d51" stroke-width="2.7"/>
+  <path d="M80 407c84-10 165-23 238-42 45 21 121 34 200 46l24-339c-131-14-153-3-250-28-79 31-171 41-241 46z" fill="#fefcee" fill-rule="evenodd" stroke="#282d51" stroke-width="2.7"/>
+  <path d="M39 75l12 15M550 56l-8 15M291 36l1 8" fill="none" stroke="#282d51" stroke-width="2.7"/>
+  <path d="M292 44l10 327" fill="none" stroke="#282d51" stroke-width="2"/>
+  <text style="line-height:125%" x="163.2" y="647.2" transform="translate(-80 -410) skewY(-14)" font-weight="400" font-size="92.2" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#3d457c">
+    <tspan x="163.2" y="647.2" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes"> Go</tspan>
+  </text>
+  <text style="line-height:125%" x="388.4" y="464" transform="translate(-80 -410) skewY(7)" font-weight="400" font-size="23.1" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#3d457c">
+    <tspan x="388.4" y="464" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes"> package main</tspan>  <tspan x="388.4" y="521.9" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes">import &quot;fmt&quot;</tspan>  <tspan x="388.4" y="579.7" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes">func main() {</tspan> <tspan x="388.4" y="608.7" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes"> fmt.Println(&quot;Hello&quot;);</tspan> <tspan x="388.4" y="637.6" style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" font-family="Great Vibes"> }</tspan>
+  </text>
+  <text transform="translate(-80 -410) skewY(-12)" y="734.6" x="180" style="line-height:125%" font-weight="400" font-size="41.2" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#3d457c">
+    <tspan style="line-height:125%;-inkscape-font-specification:'Great Vibes, Normal';text-align:start" y="734.6" x="180" font-family="Great Vibes">Chapter 1</tspan>
+  </text>
+  <path d="M443 64c47 5 49 45 49 45s47-36 47 7c4-39-67-50-96-52z" fill="none" stroke="#282d51" stroke-width="2.5"/>
+  <g>
+    <g fill-rule="evenodd">
+      <path d="M226 296c0 10-17 14-26 22-2 2-1 7 1 9 5 3 12 1 17-2 10-6 24-17 26-25 1-3-5-5-8-6-3 0-9-1-10 2z" fill="#394655"/>
+      <path d="M202 320c-2 4 4 7 8 6 10-4 19-10 26-17 3-3 9-11 9-15-4-3-11-3-15-1-2 12-14 16-20 20l-8 7z" fill="#e1d6b9"/>
+      <path d="M358 290c9 5 21-8 32-11 3 0 7 3 7 6 1 5-5 10-10 13-10 6-27 12-35 10-3-1-1-7 0-10s3-9 6-8z" fill="#394655"/>
+      <path d="M391 282c5 0 4 7 1 10-8 7-18 11-28 13-3 1-13 1-16-1 0-5 2-10 5-13 12 7 21-2 29-6l9-3z" fill="#e1d6b9"/>
+      <g>
+        <path d="M263 392c-10 4-8 21-14 31-2 3-6 3-9 2-4-4-4-11-3-17 3-11 10-28 17-32 3-2 6 3 8 6 1 3 4 9 1 10z" fill="#394655"/>
+        <path d="M247 422c-4 4-8-2-8-6 0-11 3-20 8-29 2-4 9-10 12-11 4 3 6 7 6 12-13 4-12 17-14 25-1 3-2 7-4 9z" fill="#e1d6b9"/>
+      </g>
+      <g>
+        <path d="M320 383c9 5 5 22 9 33 1 3 5 4 8 3 5-2 6-10 6-15-1-12-5-30-11-35-2-2-6 2-9 5-2 2-5 7-3 9z" fill="#394655"/>
+        <path d="M331 416c3 4 8-1 9-5 2-10 0-21-3-30-1-4-7-12-10-13-4 2-7 6-8 11 12 6 9 19 10 27 0 3 0 7 2 10z" fill="#e1d6b9"/>
+      </g>
+    </g>
+    <g color="#000">
+      <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M314 222c0 10 4 19 11 25 7 7 16 12 27 12 10 0 20-4 27-10s11-15 11-25c0-9-3-18-9-24s-15-10-25-10c-11 0-21 3-29 8-8 6-13 14-13 24z" overflow="visible" fill="#394655"/>
+      <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M318 221c0 9 4 17 10 24 6 6 15 10 25 10 9 1 18-3 24-9s10-14 11-22c0-9-3-17-9-22-5-6-13-9-22-10-10 0-19 3-27 8-7 5-11 13-12 21z" overflow="visible" fill="#fff"/>
+      <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M195 230c0 9 5 18 12 24s16 10 27 10 20-4 27-10c6-7 11-15 10-25 0-10-4-19-11-26s-16-11-27-11c-10 0-20 4-27 11s-11 17-11 27z" overflow="visible" fill="#394655"/>
+      <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M197 227c0 10 4 18 11 23 6 6 15 10 25 10s19-4 25-10c6-5 10-13 10-23 0-9-4-18-10-24-7-7-16-11-25-11-10 0-19 4-26 11-6 6-10 15-10 24z" overflow="visible" fill="#fff"/>
+    </g>
+    <g fill-rule="evenodd">
+      <path d="M366 202c-22-25-55-32-87-29-28 3-58 11-74 35-11 16-6 29 1 47 7 19 18 39 13 59-3 15-11 28-9 44 3 19 12 38 29 47 20 11 44 12 66 9 21-4 42-14 54-33 9-15 13-32 14-49l3-50c2-20 2-37 0-56-1-9-5-18-10-24z" fill="#394655"/>
+      <path d="M290 175c-30 0-67 11-83 37-10 15-3 25 3 45 5 14 13 35 14 50 0 14-11 27-11 42 1 14 5 29 14 39 8 11 22 18 36 21 25 4 54 1 76-13 13-8 21-23 26-37 6-18 5-37 7-56 2-17 4-33 3-49 0-17 0-38-11-51-18-23-47-29-74-28z" fill="#96d6ff"/>
+    </g>
+    <g fill-rule="evenodd">
+      <path d="M332 194c-1-9 2-17 9-23 3-3 7-4 11-3 5 2 7 5 9 10 1 5-4 8-7 11-6 5-13 6-17 8-2 1-5 0-5-3z" fill="#394655"/>
+      <path d="M332 196c0-8 3-18 9-24 3-2 7-3 10-2 4 1 7 4 8 8 1 5-3 8-6 10-6 5-13 9-17 10-1 1-4 0-4-2z" fill="#96d6ff"/>
+      <g>
+        <path d="M228 206c-2-9-6-16-15-20-4-2-8-2-11 0-4 3-6 7-6 12s6 7 9 8c8 4 14 3 19 4 2 0 5-1 4-4z" fill="#394655"/>
+        <path d="M229 207c-2-8-8-16-16-20-3-2-7-2-10 0-4 3-5 6-5 11 0 4 5 6 8 7l19 6c2 0 4-1 4-4z" fill="#96d6ff"/>
+      </g>
+    </g>
+    <g fill-rule="evenodd">
+      <path d="M257 355l-9-3c-1-1-3 1-3 3 0 3 2 6 5 7 4 3 6 3 9 3 2 0 1-4 1-5l-3-5z" fill="#394655"/>
+      <path d="M248 353c-3 0-2 4-1 6 4 4 4 3 9 5l5-1-2-7c-2 1-6-1-7-1l-4-2z" fill="#e1d6b9"/>
+    </g>
+  </g>
+  <g>
+    <g transform="rotate(-7 -2359 859)">
+      <ellipse transform="rotate(-11)" ry="58.1" rx="129.5" cy="572.4" cx="233.8" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" color="#000" overflow="visible" fill="#282d51"/>
+      <path d="M403 464c-39-6-80 0-118 13-23 8-46 19-63 37-8 9-14 21-10 33 5 12 17 19 29 23 29 10 60 9 90 6 35-5 71-16 100-36 12-8 23-19 27-33 2-9-1-19-9-25a89 89 0 00-46-18z" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" color="#000" overflow="visible" fill="#3b4378"/>
+      <path d="M252 528l18-96c2-15 1-54 1-54 61 27 107 78 148 109-10 62-147 71-167 41z" fill="#282d51" fill-rule="evenodd"/>
+      <path d="M269 462c-4 12-10 52-14 65 51 39 165-4 160-40-34-27-94-82-118-93l-23-11c1 27 2 56-5 79z" fill="#3b4378" fill-rule="evenodd"/>
+      <path d="M255 498c-3 9-3 16-3 23 13 18 139 36 166-37l-7-8-5 1h1c-8 7-23 15-39 20-18 6-39 10-58 12-24 2-51-7-52-11v-1l-3 1z" fill="#5b503c" fill-rule="evenodd"/>
+      <path d="M254 521l2-21c42 29 137-2 153-23l7 7c-26 60-133 59-162 37z" fill="#fddea6" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
