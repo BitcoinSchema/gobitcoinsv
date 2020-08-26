@@ -2,240 +2,302 @@
 
 <head>
   <title>GO + BSV - Bitcoin SV resources for Golang developers</title>
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 </head>
 
 <body>
-  <h1>BSV + GO</h1>
-  <br />
-  <h2>paymail-inspector</h2>
-  <h5>cli tool, library</h5>
+  <h1 class="text-center text-2xl font-bold m-16">BSV + GO</h1>
+  <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="mb-4">
+
+      <h2 class="text-lg">paymail-inspector</h2>
+      <h5 class="text-sm font-semibold">cli tool, library</h5>
+
+      <p class="mt-4">CLI application for interacting with paymail service providers</p>
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/mrz1836/paymail-inspector">https://github.com/mrz1836/paymail-inspector</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">lib-sv</h2>
+      <h5 class="text-sm font-semibold">library</h5>
+
+      <p class="mt-4">The go-to Bitcoin GoLang library.</p>
+
+      <br /><a class="text-teal-600" href="https://github.com/libsv/libsv">https://github.com/libsv/libsv</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        bsvd
+      </h2>
+      <h5 class="text-sm font-semibold">
+        node implementation, library
+      </h5>
+
+      <p class="mt-4">
+        bsvd is a full node Bitcoin (BSV) implementation written in Go (golang).
+      </p>
+
+      <p class="mt-4">
+        This project is a port of the bchd codebase to Bitcoin (BSV). It provides a high powered and reliable blockchain
+        server which makes it a suitable backend to serve blockchain data to lite clients and block explorers or to
+        power
+        your local wallet.
+      </p>
+
+      <p class="mt-4">
+        bsvd does not include any wallet functionality by design as it makes the codebase more modular and easy to
+        maintain.
+        The bsvwallet is a separate application that provides a secure Bitcoin (BSV) wallet that communicates with your
+        running bsvd instance via the API.
+      </p>
+
+
+      <br /><a class="text-teal-600" href="https://github.com/bitcoinsv/bsvd">https://github.com/bitcoinsv/bsvd</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-tonicpow
+      </h2>
+      <h5 class="text-sm font-semibold">
+        api wrapper, library
+      </h5>
+
+      <p class="mt-4">
+        Official library for the TonicPow incentive API
+      </p>
+
+
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/tonicpow/go-tonicpow">https://github.com/tonicpow/go-tonicpow</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-whatsonchain
+      </h2>
+      <h5 class="text-sm font-semibold">
+        api wrapper
+      </h5>
+
+      <p class="mt-4">
+        The unofficial golang implementation for the whatsonchain.com API
+      </p>
+
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/mrz1836/go-whatsonchain">https://github.com/mrz1836/go-whatsonchain</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">go-bsvrates</h2>
+      <h5 class="text-sm font-semibold">library</h5>
+
+      <p class="mt-4">Get the current exchange rate of BSV and other helpful currency conversions</p>
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/tonicpow/go-bsvrates">https://github.com/tonicpow/go-bsvrates</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+      <h2 class="text-lg">
+        go-polynym
+      </h2>
+      <h5 class="text-sm font-semibold">
+        api wrapper
+      </h5>
+
+      <p class="mt-4">
+        Unofficial API wrapper for the Polynym handle resolution API.
+      </p>
+
+
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/mrz1836/go-polynym">https://github.com/mrz1836/go-polynym</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-preev
+      </h2>
+      <h5 class="text-sm font-semibold">
+        api wrapper
+      </h5>
+
+      <p class="mt-4">
+        The unofficial golang implementation for the Preev.pro API
+      </p>
+
+      ​
+
+      <br /><a class="text-teal-600" href="https://github.com/mrz1836/go-preev">https://github.com/mrz1836/go-preev</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-mattercloud
+      </h2>
+      <h5 class="text-sm font-semibold">
+        api wrapper
+      </h5>
+
+      <p class="mt-4">
+        The unofficial Go implementation for the MatterCloud API
+      </p>
+
+      ​
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/mrz1836/go-mattercloud">https://github.com/mrz1836/go-mattercloud</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-b
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        A library for working with B transactions (Bitcoin OP_RETURN protocol)
+      </p>
+
+      ​
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-b">https://github.com/rohenaz/go-b</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-bob
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        Library for working with BOB formatted transactions, written in Go.
+      </p>
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-bob">https://github.com/rohenaz/go-bob</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-bmap
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        A Go version of the bmap js library for manipulating and parsing several OP_RETURN protocols.
+      </p>
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-bmap">https://github.com/rohenaz/go-bmap</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-bap
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        Library for working with Bitcoin Attestation Protocol in Go
+      </p>
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-bap">https://github.com/rohenaz/go-bap</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">
+        go-aip
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        Library for working with Author Identity Protocol in go
+      </p>
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-aip">https://github.com/rohenaz/go-aip</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+
+    <div class="mb-4">
+      <h2 class="text-lg">
+        go-map
+      </h2>
+      <h5 class="text-sm font-semibold">
+        library
+      </h5>
+
+      <p class="mt-4">
+        A library for working with Magic Attribute Protocol. Used in conjunction with a Tape from go-bob
+      </p>
+
+
+      <br /><a class="text-teal-600" href="https://github.com/rohenaz/go-map">https://github.com/rohenaz/go-map</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+
+    <div class="mb-4">
+
+      <h2 class="text-lg">bitcoin-sv-specs</h2>
+      <h5 class="text-sm font-semibold">specifications and examples</h5>
+
+      <p class="mt-4">A collection of BSV specifications such as miner-id, protocols, BIPs, and BRFCs. Some packages
+        include Go tools
+        and
+        examples.</p>
+
+      <br /><a class="text-teal-600" href="https://github.com/bitcoin-sv-specs">https://github.com/bitcoin-sv-specs</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+    <div class="mb-4">
+
+      <h2 class="text-lg">go-bitcoin</h2>
+      <h5 class="text-sm font-semibold">library</h5>
+
+      <p class="mt-4">Go wrapper for bitcoin RPC</p>
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/ordishs/go-bitcoin">https://github.com/ordishs/go-bitcoin</a>
+      <hr class="bg-teal-900 b-0 my-4" />
+    </div>
+
+    <div class="mb-4">
+      <h2 class="text-lg">go-svdb</h2>
+      <h5 class="text-sm font-semibold">bitcoin database</h5>
+
+      <p class="mt-4">go-svdb Project is a bitcoin database project. It implements a query service on bitcoin-sv.</p>
+
+      <br /><a class="text-teal-600"
+        href="https://github.com/mempoolTeam/go-svdb">https://github.com/mempoolTeam/go-svdb</a>
+    </div>
 
-  <p>CLI application for interacting with paymail service providers</p>
-  <br />
-  <a href="https://github.com/mrz1836/paymail-inspector">https://github.com/mrz1836/paymail-inspector</a>
-
-  <h2>lib-sv</h2>
-  <h5>library</h5>
-
-  <p>The go-to Bitcoin GoLang library.</p>
-
-  <a href="https://github.com/libsv/libsv">https://github.com/libsv/libsv</a>
-
-  <h2>
-    bsvd
-  </h2>
-  <h5>
-    node implementation, library
-  </h5>
-
-  <p>
-    bsvd is a full node Bitcoin (BSV) implementation written in Go (golang).
-  </p>
-
-  <p>
-    This project is a port of the bchd codebase to Bitcoin (BSV). It provides a high powered and reliable blockchain
-    server which makes it a suitable backend to serve blockchain data to lite clients and block explorers or to power
-    your local wallet.
-  </p>
-
-  <p>
-    bsvd does not include any wallet functionality by design as it makes the codebase more modular and easy to maintain.
-    The bsvwallet is a separate application that provides a secure Bitcoin (BSV) wallet that communicates with your
-    running bsvd instance via the API.
-  </p>
-
-
-  <a href="https://github.com/bitcoinsv/bsvd">https://github.com/bitcoinsv/bsvd</a>
-
-  <h2>
-    go-tonicpow
-  </h2>
-  <h5>
-    api wrapper, library
-  </h5>
-
-  <p>
-    Official library for the TonicPow incentive API
-  </p>
-
-
-
-  <a href="https://github.com/tonicpow/go-tonicpow">https://github.com/tonicpow/go-tonicpow</a>
-
-  <h2>
-    go-whatsonchain
-  </h2>
-  <h5>
-    api wrapper
-  </h5>
-
-  <p>
-    The unofficial golang implementation for the whatsonchain.com API
-  </p>
-
-
-  <a href="https://github.com/mrz1836/go-whatsonchain">https://github.com/mrz1836/go-whatsonchain</a>
-
-  <h2>go-bsvrates</h2>
-  <h5>library</h5>
-
-  <p>Get the current exchange rate of BSV and other helpful currency conversions</p>
-
-  <a href="https://github.com/tonicpow/go-bsvrates">https://github.com/tonicpow/go-bsvrates</a>
-  <h2>
-    go-polynym
-  </h2>
-  <h5>
-    api wrapper
-  </h5>
-
-  <p>
-    Unofficial API wrapper for the Polynym handle resolution API.
-  </p>
-
-
-
-  <a href="https://github.com/mrz1836/go-polynym">https://github.com/mrz1836/go-polynym</a>
-
-  <h2>
-    go-preev
-  </h2>
-  <h5>
-    api wrapper
-  </h5>
-
-  <p>
-    The unofficial golang implementation for the Preev.pro API
-  </p>
-
-  ​
-
-  <a href="https://github.com/mrz1836/go-preev">https://github.com/mrz1836/go-preev</a>
-
-  <h2>
-    go-mattercloud
-  </h2>
-  <h5>
-    api wrapper
-  </h5>
-
-  <p>
-    The unofficial Go implementation for the MatterCloud API
-  </p>
-
-  ​
-
-  <a href="https://github.com/mrz1836/go-mattercloud">https://github.com/mrz1836/go-mattercloud</a>
-
-  <h2>
-    go-b
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    A library for working with B transactions (Bitcoin OP_RETURN protocol)
-  </p>
-
-  ​
-
-  <a href="https://github.com/rohenaz/go-b">https://github.com/rohenaz/go-b</a>
-
-  <h2>
-    go-bob
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    Library for working with BOB formatted transactions, written in Go.
-  </p>
-
-  ​
-
-  <a href="https://github.com/rohenaz/go-bob">https://github.com/rohenaz/go-bob</a>
-
-  <h2>
-    go-bmap
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    A Go version of the bmap js library for manipulating and parsing several OP_RETURN protocols.
-  </p>
-
-
-  <a href="https://github.com/rohenaz/go-bmap">https://github.com/rohenaz/go-bmap</a>
-
-  <h2>
-    go-bap
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    Library for working with Bitcoin Attestation Protocol in Go
-  </p>
-
-
-  <a href="https://github.com/rohenaz/go-bap">https://github.com/rohenaz/go-bap</a>
-
-  <h2>
-    go-aip
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    Library for working with Author Identity Protocol in go
-  </p>
-
-
-  <a href="https://github.com/rohenaz/go-aip">https://github.com/rohenaz/go-aip</a>
-
-  <h2>
-    go-map
-  </h2>
-  <h5>
-    library
-  </h5>
-
-  <p>
-    A library for working with Magic Attribute Protocol. Used in conjunction with a Tape from go-bob
-  </p>
-
-
-  <a href="https://github.com/rohenaz/go-map">https://github.com/rohenaz/go-map</a>
-
-
-  <h2>bitcoin-sv-specs</h2>
-  <h5>specifications and examples</h5>
-
-  <p>A collection of BSV specifications such as miner-id, protocols, BIPs, and BRFCs. Some packages include Go tools and
-    examples.</p>
-
-  <a href="https://github.com/bitcoin-sv-specs">https://github.com/bitcoin-sv-specs</a>
-
-  <h2>go-bitcoin</h2>
-  <h5>library</h5>
-
-  <p>Go wrapper for bitcoin RPC</p>
-
-  <a href="https://github.com/ordishs/go-bitcoin">https://github.com/ordishs/go-bitcoin</a>
-
-
-  <h2>go-svdb</h2>
-  <h5>bitcoin database</h5>
-
-  <p>go-svdb Project is a bitcoin database project. It implements a query service on bitcoin-sv.</p>
-
-  <a href="https://github.com/mempoolTeam/go-svdb">https://github.com/mempoolTeam/go-svdb</a>
 </body>
 
 </html>
