@@ -1,0 +1,56 @@
+{
+  "name": "gobitcoinsv",
+  "version": "0.0.1",
+  "main": "public/index.html",
+  "private": true,
+  "author": {
+    "name": "BitcoinSchema",
+    "email": "support@bitcoinschema.org",
+    "url": "https://gobitcoinsv.com"
+  },
+  "contributors": [
+    {
+      "name": "Satchmo",
+      "url": "https://github.com/rohenaz/"
+    },
+    {
+      "name": "MrZ",
+      "url": "https://github.com/mrz1836/"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/BitcoinSchema/gobitcoinsv/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BitcoinSchema/gobitcoinsv/"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  },
+  "browserslist": [
+    "last 1 Chrome versions",
+    "last 1 Safari versions"
+  ],
+  "keywords": [
+    "go",
+    "golang",
+    "bitcoin",
+    "bitcoinsv",
+    "bsv"
+  ],
+  "homepage": "https://github.com/BitcoinSchema/gobitcoinsv",
+  "scripts": {
+    "clean": "rm -rf .cache && rm -rf dist",
+    "reinstall": "rm -rf yarn.lock && rm -rf node_modules && rm -rf dist && rm -rf .cache && yarn",
+    "lint": "prettier --write ."
+  },
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}

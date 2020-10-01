@@ -1,0 +1,9 @@
+# Remove files and directories from prettier
+
+.github
+.cache
+dist
+assets
+node_modules
+*.md
+*.lock
