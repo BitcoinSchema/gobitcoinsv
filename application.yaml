@@ -83,7 +83,7 @@ Metadata:
     Description: 'Serverless app for the GoBitcoinSV website deployment'
     Author: MrZ
     #ReadmeUrl: README.md
-    Labels: ['tncpw', 'tonicpow']
+    Labels: ['bitcoinschema', 'gobitcoinsv']
     HomePageUrl: !Sub 'https://github.com/${RepoOwner}/${RepoName}'
     SemanticVersion: '0.0.1'
     SourceCodeUrl: !Sub 'https://github.com/${RepoOwner}/${RepoName}'
@@ -317,6 +317,7 @@ Resources:
                   - s3:PutObject
                   - s3:PutObjectAcl
                 Resource:
+                  - !Sub 'arn:aws:s3:::${ApplicationBucket}/*'
                   - !Sub 'arn:aws:s3:::${ApplicationBucket}/${ApplicationStackName}'
                   - !Sub 'arn:aws:s3:::${ApplicationBucket}/${ApplicationStackName}*'
                 Effect: Allow
