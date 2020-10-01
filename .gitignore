@@ -68,3 +68,7 @@ node_modules/
 # JetBeans
 .idea
 todo.md
+
+# Distribution
+dist
+packaged.yaml
