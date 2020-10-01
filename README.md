@@ -1,10 +1,12 @@
 # [GoBitcoinSV](https://gobitcoinsv.com)
 > A collection of go projects for building on Bitcoin SV
 
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
-[![app health](https://img.shields.io/website-up-down-green-red/https/gobitcoinsv.com.svg?label=status)](https://gobitcoinsv.com)
-[![Sponsor](https://img.shields.io/badge/sponsor-BitcoinSchema-181717.svg?logo=github&style=flat&v=3)](https://github.com/sponsors/BitcoinSchema)
-[![Donate](https://img.shields.io/badge/donate-bitcoin-ff9900.svg?logo=bitcoin&style=flat&v=3)](https://gobitcoinsv.com/?tab=tips&af=go-bitcoin)
+[![last commit](https://img.shields.io/github/last-commit/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/commits/master)
+[![Release](https://img.shields.io/github/release-pre/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/releases)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
+[![app health](https://img.shields.io/website-up-down-green-red/https/gobitcoinsv.com.svg?label=status&v=1)](https://gobitcoinsv.com)
+[![Sponsor](https://img.shields.io/badge/sponsor-BitcoinSchema-181717.svg?logo=github&style=flat&v=1)](https://github.com/sponsors/BitcoinSchema)
+[![Donate](https://img.shields.io/badge/donate-bitcoin-ff9900.svg?logo=bitcoin&style=flat&v=1)](https://gobitcoinsv.com/#sponsor)
 
 <br/>
 
@@ -275,9 +277,9 @@ View the [contributing guidelines](CONTRIBUTING.md) and follow the [code of cond
 All kinds of contributions are welcome :raised_hands:!
 The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:.
 You can also support this project by [becoming a sponsor on GitHub](https://github.com/sponsors/BitcoinSchema) :clap:
-or by making a [**bitcoin donation**](https://gobitcoinsv.com/?af=gobitcoinsv) to ensure this journey continues indefinitely! :rocket:
+or by making a [**bitcoin donation**](https://gobitcoinsv.com/#sponsor) to ensure this journey continues indefinitely! :rocket:
 
 <br/>
 
 ## License
-![License](https://img.shields.io/github/license/BitcoinSchema/gobitcoinsv.svg?style=flat&v=3)
+![License](https://img.shields.io/github/license/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)
