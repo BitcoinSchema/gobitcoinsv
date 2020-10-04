@@ -10,6 +10,10 @@
 
 <br/>
 
+<img src=".github/IMAGES/website-cover.png?raw=true&v=1" alt="GoBitcoinSV">
+
+<br/>
+
 ## Table of Contents
 - [Installation](#installation)
 - [Documentation](#documentation)
