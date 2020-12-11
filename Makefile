@@ -1,11 +1,11 @@
 # Common makefile commands & variables between projects
-include .make/Makefile.common
+include .make/common.mk
 
 # Common aws commands & variables between projects
-include .make/Makefile.aws
+include .make/aws.mk
 
 # Common firebase commands & variables between projects
-include .make/Makefile.firebase
+include .make/firebase.mk
 
 ## Stage or environment for the application
 ifndef APPLICATION_STAGE_NAME
