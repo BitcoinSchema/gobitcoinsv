@@ -1,10 +1,12 @@
 # [GoBitcoinSV](https://gobitcoinsv.com)
-> A collection of go projects for building on Bitcoin SV
+> A collection of Go projects for building on BitcoinSV
 
 [![last commit](https://img.shields.io/github/last-commit/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/commits/master)
 [![Release](https://img.shields.io/github/release-pre/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/releases)
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
+[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BitcoinSchema/gobitcoinsv&style=flat&v=1)](https://mergify.io)
 [![app health](https://img.shields.io/website-up-down-green-red/https/gobitcoinsv.com.svg?label=status&v=1)](https://gobitcoinsv.com)
+<br>
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
 [![Sponsor](https://img.shields.io/badge/sponsor-BitcoinSchema-181717.svg?logo=github&style=flat&v=1)](https://github.com/sponsors/BitcoinSchema)
 [![Donate](https://img.shields.io/badge/donate-bitcoin-ff9900.svg?logo=bitcoin&style=flat&v=1)](https://gobitcoinsv.com/#sponsor?utm_source=github&utm_medium=sponsor-link&utm_campaign=gobitcoinsv&utm_term=gobitcoinsv&utm_content=gobitcoinsv)
 
@@ -282,6 +284,8 @@ All kinds of contributions are welcome :raised_hands:!
 The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:.
 You can also support this project by [becoming a sponsor on GitHub](https://github.com/sponsors/BitcoinSchema) :clap:
 or by making a [**bitcoin donation**](https://gobitcoinsv.com/#sponsor?utm_source=github&utm_medium=sponsor-link&utm_campaign=gobitcoinsv&utm_term=gobitcoinsv&utm_content=gobitcoinsv) to ensure this journey continues indefinitely! :rocket:
+
+[![Stars](https://img.shields.io/github/stars/BitcoinSchema/gobitcoinsv?label=Please%20like%20us&style=social)](https://github.com/BitcoinSchema/gobitcoinsv/stargazers)
 
 <br/>
 
