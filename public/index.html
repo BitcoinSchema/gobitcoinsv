@@ -20,7 +20,7 @@
     />
     <meta
       name="keywords"
-      content="go, golang, tonicpow, bitcoin, bitcoinsv, library, code, protocols, repository, api"
+      content="go, golang, tonicpow, bsv, bitcoin, bitcoinsv, library, code, protocols, repository, api, preev, moneybutton, paymail"
     />
 
     <!-- TWITTER -->
@@ -71,18 +71,21 @@
     </div>
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
       <div class="mb-4">
-        <h3 class="font-semibold text-lg">paymail-inspector</h3>
-        <h5 class="text-sm font-semibold text-teal-800">cli tool, library</h5>
+        <h3 class="font-semibold text-lg">go-bitcoin</h3>
+        <h5 class="text-sm font-semibold text-teal-800">library</h5>
 
         <p class="mt-4">
-          CLI application for interacting with paymail service providers
+          A small collection of utility functions for working with Bitcoin.
         </p>
 
-        <br /><a
+        <br />
+        <a
           class="text-teal-600"
-          href="https://github.com/mrz1836/paymail-inspector"
-          >https://github.com/mrz1836/paymail-inspector</a
+          href="https://github.com/BitcoinSchema/go-bitcoin"
         >
+          https://github.com/BitcoinSchema/go-bitcoin
+        </a>
+
         <hr class="b-0 my-4" />
       </div>
 
@@ -103,21 +106,18 @@
       </div>
 
       <div class="mb-4">
-        <h3 class="font-semibold text-lg">go-bitcoin</h3>
-        <h5 class="text-sm font-semibold text-teal-800">library</h5>
+        <h3 class="font-semibold text-lg">paymail-inspector</h3>
+        <h5 class="text-sm font-semibold text-teal-800">cli tool, library</h5>
 
         <p class="mt-4">
-          A small collection of utility functions for working with Bitcoin.
+          CLI application for interacting with paymail service providers
         </p>
 
-        <br />
-        <a
+        <br /><a
           class="text-teal-600"
-          href="https://github.com/BitcoinSchema/go-bitcoin"
+          href="https://github.com/mrz1836/paymail-inspector"
+          >https://github.com/mrz1836/paymail-inspector</a
         >
-          https://github.com/BitcoinSchema/go-bitcoin
-        </a>
-
         <hr class="b-0 my-4" />
       </div>
 
@@ -182,11 +182,38 @@
         <h5 class="text-sm font-semibold text-teal-800">library</h5>
 
         <p class="mt-4">
-          This repository contains source code implementing SPV Channels Client in golang for the <a href="https://github.com/bitcoin-sv/spvchannels-reference" target='_blank'>SPV Channels Server</a>
+          This repository contains source code implementing SPV Channels Client
+          in golang for the
+          <a
+            href="https://github.com/bitcoin-sv/spvchannels-reference"
+            target="_blank"
+            >SPV Channels Server</a
+          >
         </p>
 
-        <br /><a class="text-teal-600" href="https://github.com/libsv/go-spvchannels"
-      >https://github.com/libsv/go-spvchannels</a>
+        <br /><a
+          class="text-teal-600"
+          href="https://github.com/libsv/go-spvchannels"
+          >https://github.com/libsv/go-spvchannels</a
+        >
+        <hr class="b-0 my-4" />
+      </div>
+
+      <div class="mb-4">
+        <h3 class="font-semibold text-lg">go-p4</h3>
+        <h5 class="text-sm font-semibold text-teal-800">library</h5>
+
+        <p class="mt-4">
+          P4 is a basic reference implementation of a Payment Protocol Server
+          implementing the proposed BIP-270 payment flow.
+          <br /><br />
+          This is written in go and integrates with a wallet running the Payment
+          Protocol PayD Interface
+        </p>
+
+        <br /><a class="text-teal-600" href="https://github.com/libsv/go-p4"
+          >https://github.com/libsv/go-p4</a
+        >
         <hr class="b-0 my-4" />
       </div>
 
@@ -205,37 +232,6 @@
           class="text-teal-600"
           href="https://github.com/tonicpow/go-minercraft"
           >https://github.com/tonicpow/go-minercraft</a
-        >
-        <hr class="b-0 my-4" />
-      </div>
-
-      <div class="mb-4">
-        <h3 class="font-semibold text-lg">bsvd</h3>
-        <h5 class="text-sm font-semibold text-teal-800">
-          node implementation, library
-        </h5>
-
-        <p class="mt-4">
-          bsvd is a full node Bitcoin (BSV) implementation written in Go
-          (golang).
-        </p>
-
-        <p class="mt-4">
-          This project is a port of the bchd codebase to Bitcoin (BSV). It
-          provides a high powered and reliable blockchain server which makes it
-          a suitable backend to serve blockchain data to lite clients and block
-          explorers or to power your local wallet.
-        </p>
-
-        <p class="mt-4">
-          bsvd does not include any wallet functionality by design as it makes
-          the codebase more modular and easy to maintain. The bsv wallet is a
-          separate application that provides a secure Bitcoin (BSV) wallet that
-          communicates with your running bsvd instance via the API.
-        </p>
-
-        <br /><a class="text-teal-600" href="https://github.com/bitcoinsv/bsvd"
-          >https://github.com/bitcoinsv/bsvd</a
         >
         <hr class="b-0 my-4" />
       </div>
@@ -576,6 +572,37 @@
           >https://github.com/dotwallet/dotwallet-go-sdk</a
         >
 
+        <hr class="b-0 my-4" />
+      </div>
+
+      <div class="mb-4">
+        <h3 class="font-semibold text-lg">bsvd</h3>
+        <h5 class="text-sm font-semibold text-teal-800">
+          node implementation, library
+        </h5>
+
+        <p class="mt-4">
+          bsvd is a full node Bitcoin (BSV) implementation written in Go
+          (golang).
+        </p>
+
+        <p class="mt-4">
+          This project is a port of the bchd codebase to Bitcoin (BSV). It
+          provides a high powered and reliable blockchain server which makes it
+          a suitable backend to serve blockchain data to lite clients and block
+          explorers or to power your local wallet.
+        </p>
+
+        <p class="mt-4">
+          bsvd does not include any wallet functionality by design as it makes
+          the codebase more modular and easy to maintain. The bsv wallet is a
+          separate application that provides a secure Bitcoin (BSV) wallet that
+          communicates with your running bsvd instance via the API.
+        </p>
+
+        <br /><a class="text-teal-600" href="https://github.com/bitcoinsv/bsvd"
+          >https://github.com/bitcoinsv/bsvd</a
+        >
         <hr class="b-0 my-4" />
       </div>
 
