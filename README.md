@@ -290,4 +290,4 @@ or by making a [**bitcoin donation**](https://gobitcoinsv.com/#sponsor?utm_sourc
 <br/>
 
 ## License
-![License](https://img.shields.io/github/license/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)
+[![License](https://img.shields.io/github/license/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](LICENSE)
