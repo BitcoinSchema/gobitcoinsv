@@ -3,7 +3,7 @@
 
 [![last commit](https://img.shields.io/github/last-commit/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/commits/master)
 [![Release](https://img.shields.io/github/release-pre/BitcoinSchema/gobitcoinsv.svg?style=flat&v=1)](https://github.com/BitcoinSchema/gobitcoinsv/releases)
-[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BitcoinSchema/gobitcoinsv&style=flat&v=1)](https://mergify.io)
+[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/BitcoinSchema/gobitcoinsv&style=flat&v=1)](https://mergify.io)
 [![app health](https://img.shields.io/website-up-down-green-red/https/gobitcoinsv.com.svg?label=status&v=1)](https://gobitcoinsv.com)
 <br>
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
